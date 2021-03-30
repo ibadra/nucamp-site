@@ -22,7 +22,7 @@ footer {
 }
 
 .jumbotron {
-    margin: 0;
+  margin: 0;
   padding: 30px;
   background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
   color: white;
@@ -38,6 +38,8 @@ footer {
   background-color: #901cad;
 }
 
-.fa-phone, .fa-envelope {
+.fa-phone,
+.fa-envelope,
+.fa-envelope-o {
   color: #0275d8;
 }
