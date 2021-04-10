@@ -56,8 +56,8 @@ a, a:hover {
 .carousel {
   border: solid #5637dd;
 }
-/* My borders showing different div 
- .col, div[class^="col-"], label[class^="col-"] {
+ My borders showing different div 
+ /*.col, div[class^="col-"], label[class^="col-"] {
   border: 1px solid red;
   margin: 2px; 
   
